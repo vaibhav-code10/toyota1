@@ -11,4 +11,8 @@ public class Democontro {
 		return("hi");
 	}
 
+	
+	
+	
+	System.out.println("hai);
 }
