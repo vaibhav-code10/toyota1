@@ -14,5 +14,5 @@ public class Democontro {
 	
 	
 	
-	System.out.println("hai);
+	Syste.out.println("toyota");
 }
